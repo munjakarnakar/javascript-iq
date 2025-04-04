@@ -41,13 +41,11 @@ function function1(a){
 console.log(function1(1)(2)(10))
 
 
-console.log("one")
 async function funcName(){
-    const resul = await function funtion2(){
+    const result = await function funtion2(){
         
     }
 }
-console.log("two")
 
 
 
